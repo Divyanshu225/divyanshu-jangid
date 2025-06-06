@@ -7,7 +7,6 @@ import type {
   TProject,
 } from "../types";
 
-import Freelance from "../../public/1.jpeg"
 import {
   mobile,
   backend,

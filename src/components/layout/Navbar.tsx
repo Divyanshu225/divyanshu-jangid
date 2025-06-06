@@ -5,7 +5,6 @@ import { styles } from "../../constants/styles";
 import { navLinks } from "../../constants";
 import { menu, close } from "../../assets";
 // Note: logo import hata diya kyunki hum direct public folder ka path use karenge
-import { config } from "../../constants/config";
 
 const Navbar = () => {
   const [active, setActive] = useState<string | null>();
