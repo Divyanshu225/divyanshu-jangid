@@ -22,7 +22,6 @@ import {
   nodejs,
   mongodb,
   git,
-  figma,
 
   meta,
   starbucks,
@@ -106,19 +105,19 @@ const technologies: TTechnology[] = [
     icon: mongodb,
   },
   {
-    name: "Three JS",
-    icon: threejs,
+    name: "mysql",
+    icon: "/assets/tech/mtsql.png",
   },
   {
     name: "git",
     icon: git,
   },
   {
-    name: "figma",
-    icon: figma,
+    name: "nextjs",
+    icon: "/assets/tech/next js.png",
   },
   {
-    name: "docker",
+    name: "bootstrap",
     icon:  "/assets/bootstrap.png",
   },
 ];
