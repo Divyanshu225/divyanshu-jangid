@@ -30,7 +30,6 @@ import {
   carrent,
   jobit,
   tripguide,
-  threejs,
 } from "../../public/assets";
 
 export const navLinks: TNavLink[] = [
