@@ -30,7 +30,7 @@ import {
   carrent,
   jobit,
   tripguide,
-} from "../assets";
+} from "../../public/assets";
 
 export const navLinks: TNavLink[] = [
   {
@@ -105,7 +105,7 @@ const technologies: TTechnology[] = [
   },
   {
     name: "mysql",
-    icon: "src/assets/tech/mtsql.png",
+    icon: "/assets/tech/mtsql.png",
   },
   {
     name: "git",
@@ -113,11 +113,11 @@ const technologies: TTechnology[] = [
   },
   {
     name: "nextjs",
-    icon: "src/assets/tech/next js.png",
+    icon: "/assets/tech/next js.png",
   },
   {
     name: "bootstrap",
-    icon:  "src/assets/bootstrap.png",
+    icon:  "/assets/bootstrap.png",
   },
 ];
 
