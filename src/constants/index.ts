@@ -69,39 +69,39 @@ const services: TService[] = [
 const technologies: TTechnology[] = [
   {
     name: "HTML 5",
-    icon: "/assets/tech/html.png",
+    icon: html,
   },
   {
     name: "CSS 3",
-    icon: "/assets/tech/css.png",
+    icon: css,
   },
   {
     name: "JavaScript",
-    icon: "/assets/tech/javascript.png",
+    icon: javascript,
   },
   {
     name: "TypeScript",
-    icon: "/assets/tech/typescript.png",
+    icon: typescript,
   },
   {
     name: "React JS",
-    icon: "/assets/tech/reactjs.png",
+    icon: reactjs,
   },
   {
     name: "Redux Toolkit",
-    icon: "/assets/tech/redux.png",
+    icon: redux,
   },
   {
     name: "Tailwind CSS",
-    icon: "/assets/tech/tailwind.png",
+    icon: tailwind,
   },
   {
     name: "Node JS",
-    icon: "/assets/tech/nodejs.png",
+    icon: nodejs,
   },
   {
     name: "MongoDB",
-    icon: "/assets/tech/mognodb.png",
+    icon: mongodb,
   },
   {
     name: "mysql",
@@ -109,7 +109,7 @@ const technologies: TTechnology[] = [
   },
   {
     name: "git",
-    icon: "/assets/tech/git.png",
+    icon: git,
   },
   {
     name: "nextjs",
